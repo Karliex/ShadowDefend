@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bd7ac17-ea30-4ff6-8f64-d40d419a1b64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/levels/waves.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/levels/waves.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1crESddzH7VA7IsVYslv0jkvRl0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.ShadowDefend">
+    <configuration name="ShadowDefend (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShadowDefend" />
+      <module name="ShadowDefend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShadowDefend" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShadowDefend" />
+      <module name="bagel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ShadowDefend" />
+      <item itemvalue="Application.ShadowDefend (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShadowDefend (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bd7ac17-ea30-4ff6-8f64-d40d419a1b64" name="Default Changelist" comment="" />
+      <created>1591278312411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591278312411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="0" width="611" height="680" key="#ShadowDefend" timestamp="1591444835365">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="342" y="0" width="611" height="680" key="#ShadowDefend/0.0.1280.680@0.0.1280.680" timestamp="1591444835365" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591599040528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1591599040528" />
+    <state x="394" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591278378849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="394" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1591278378849" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1591430351636">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1591430351636" />
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591278326015">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1591278326015" />
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591685167021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1591685167021" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591609160690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1591609160690" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1594971412984">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1594971412984" />
+    <state width="1237" height="275" key="GridCell.Tab.0.bottom" timestamp="1593177520965">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593177520965" />
+    <state width="1237" height="275" key="GridCell.Tab.0.center" timestamp="1593177520964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593177520964" />
+    <state width="1237" height="275" key="GridCell.Tab.0.left" timestamp="1593177520964">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593177520964" />
+    <state width="1237" height="275" key="GridCell.Tab.0.right" timestamp="1593177520965">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="275" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593177520965" />
+    <state width="1237" height="258" key="GridCell.Tab.1.bottom" timestamp="1591869773275">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591869773275" />
+    <state width="1237" height="258" key="GridCell.Tab.1.center" timestamp="1591869773275">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1591869773275" />
+    <state width="1237" height="258" key="GridCell.Tab.1.left" timestamp="1591869773275">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1591869773275" />
+    <state width="1237" height="258" key="GridCell.Tab.1.right" timestamp="1591869773275">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="258" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1591869773275" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1591515298981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1591515298981" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1591515339211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591515339211" />
+    <state x="643" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1594969110013">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="643" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1594969110013" />
+    <state x="348" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591515332041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1591515332041" />
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591759588211">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1591759588211" />
+    <state x="28" y="0" key="new project wizard" timestamp="1594971434768">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1594971434768" />
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1591687316777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="383" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1591687316777" />
+  </component>
+</project>
